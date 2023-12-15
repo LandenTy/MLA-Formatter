@@ -17,4 +17,4 @@ Simple, yet intuitive tool designed to automatically convert any Google Docs doc
 
 **DISCLAIMER**
 This tool is not perfect, if you encounter an issue please bring it to my attention by filling
-out the form at [https://tinyurl.com/n749yx7p]. Please do not sue me, that would not be very fun :)
+out the form at https://tinyurl.com/n749yx7p. Please do not sue me, that would not be very fun :)
