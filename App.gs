@@ -2,7 +2,7 @@ function onOpen() {
   // Create a custom menu in the Google Docs UI
   DocumentApp.getUi()
     .createMenu('MLAiffy')
-    .addItem('2. Format Document', 'formatDocument')
+    .addItem('Format Document', 'formatDocument')
     .addToUi();
 }
 
